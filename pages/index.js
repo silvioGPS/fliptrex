@@ -121,11 +121,10 @@ export default function PaginaInicial() {
 
             <TextField
              placeholder="Informe seu usuário do Git Hub"
-            placeholderTextColor= '#FFFFFF'
               fullWidth
               textFieldColors={{
                 neutral: {
-                  textColor: appConfig.theme.colors.textColor['000'],
+                  textColor: appConfig.theme.colors.textColor['branco'],
                   mainColor: appConfig.theme.colors.neutrals[900],
                   mainColorHighlight: appConfig.theme.colors.bordas["bdpink"],
                   backgroundColor: 'rgba(24,31,37,0.9)',
