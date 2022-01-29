@@ -306,6 +306,11 @@ escape-string-regexp@^1.0.5:
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
   integrity sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=
 
+expo-linear-gradient@^11.0.1:
+  version "11.0.1"
+  resolved "https://registry.yarnpkg.com/expo-linear-gradient/-/expo-linear-gradient-11.0.1.tgz#e385025aa76efa810d25b22fa518b3071f7de37a"
+  integrity sha512-HHAuUK4geuye2/bemfZRsjONkpb2H55NNGEb1aidLHyiohaAzla2+VleUO+fkSUJRA005eeXo3TEHFVyfXQx6g==
+
 fetch-blob@^3.1.2, fetch-blob@^3.1.4:
   version "3.1.4"
   resolved "https://registry.yarnpkg.com/fetch-blob/-/fetch-blob-3.1.4.tgz#e8c6567f80ad7fc22fd302e7dcb72bafde9c1717"

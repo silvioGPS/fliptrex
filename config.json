@@ -46,7 +46,8 @@
                 "roxoclaro": "#4361EE",
                 "roxo": "#7B2CBF",
                 "roxomaisclaro": "#9D4EDD",
-                "branco": "#FFFFFF"
+                "branco": "#FFFFFF",
+                "preto": "#000000"
                 
             },
             "backgroundColor": {
